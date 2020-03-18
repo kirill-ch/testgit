@@ -6,6 +6,6 @@ public class App {
         System.out.println("AQWQWQWQWQWQW");
         System.out.println("фывафваAS");
         System.out.println("фывафва123412341");
-        System.out.println("фывафваASASASS123132");
+        System.out.println("фывафваASASAS");
     }
 }
