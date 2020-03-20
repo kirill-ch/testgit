@@ -7,6 +7,7 @@ public class App {
         System.out.println("asdfasdfASDASDADS12312321");
         System.out.println("asdfasdfASDASDADSzxcvzxcv");
 
+        System.out.println("asd");
     }
 
     public static void print(){
