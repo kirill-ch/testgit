@@ -8,4 +8,8 @@ public class App {
         System.out.println("asdfasdfASDASDADSzxcvzxcv");
 
     }
+
+    public static void print(){
+        return;
+    }
 }
