@@ -8,6 +8,8 @@ public class App {
         System.out.println("asdfasdfASDASDADSzxcvzxcv");
 
         System.out.println("asd");
+
+        System.out.println("12123123123");
     }
 
     public static void print(){
