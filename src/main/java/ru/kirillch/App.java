@@ -6,10 +6,6 @@ public class App {
         System.out.println("QWEQWEQWE");
         System.out.println("asdfasdfASDASDADS12312321");
         System.out.println("asdfasdfASDASDADSzxcvzxcv");
-
-        System.out.println("asd");
-
-        System.out.println("12123123123");
     }
 
     public static void print(){
